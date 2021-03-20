@@ -26,3 +26,56 @@ for(int i =0; i<arrays.length; i++) {
 }
 	}
 }
+
+int[] arrays= {45,78,12,67,55};
+for(int i=0; i<arrays.length; i++) {
+	System.out.println(arrays[i] +" ");
+	
+	
+	int[] arrays= {45,78,12,67,55};
+	for(int i =0; i<arrays.length; i++) {
+		System.out.println(arrays[i] +" ");
+		
+		int[] arrays= {45,78,12,67,55};
+		for(int i=0; i<arrays.length; i++) {
+			System.out.println(arrays[i] +" ");
+			
+			int[] arrays= {45,78,12,67,55};
+			for(int i=0; i<arrays.length; i++) {
+				System.out.println(arrays[i] +" ");
+				
+				int[] arrays= {45,78,12,67,55};
+				for(int i=0; i<arrays.length; i++) {
+				System.out.println(arrays[i] +" ");
+				}
+				
+				int[] arrays= {45,78,12,67,55};
+				for(int i=0; i<arrays.length; i++) {
+				System.out.println(arrays[i] +" ");
+				
+				
+				int[] arrays= {45,78,12,67,55};
+				for(int i=0; i<arrays.length; i++) {
+				System.out.println(arrays[i] +" ");
+				
+				int[] arrays= {45,78,12,67,55};
+				for(int i=0; i<arrays.length; i++) {
+				System.out.println(arrays[i] +" ");
+				
+				int[] arrays= {45,78,12,67,55};
+				for(int i=0; i<arrays.length; i++) {
+				System.out.println(arrays[i] +" ");
+				
+				int[] arrays= {45,78,12,67,55};
+				for(int i=0; i<arrays.length; i++) {
+					System.out.println(arrays[i] +" ");
+				}
+				}
+				}
+				}
+				}
+			}
+		}
+		
+	}
+}

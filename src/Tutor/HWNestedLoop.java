@@ -7,7 +7,7 @@ public class HWNestedLoop {
 int lines= 7;
 
 for(int i=lines; i>=1;i--) {
-	for(int j =7; j>=i;j--) {
+	for(int j = 1; j<=i;j++) {
 		System.out.print("* ");
 	}
 		System.out.println();
