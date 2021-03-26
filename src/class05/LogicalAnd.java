@@ -28,7 +28,7 @@ public class LogicalAnd {
 			System.out.println(num +" is a medium number");
 		}else if(num<=101 && num<=1000)  {
 			System.out.println(num +" is a Large number");
-		} else if (num>= 1001 && <=100000)  {
+		} else if (num>= 1001 && num <=100000)  {
 			
 			System.out.println(num +" is a xlarge number");
 		

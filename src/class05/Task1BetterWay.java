@@ -12,7 +12,7 @@ public class Task1BetterWay {
 		height=pp.nextInt();
 		
 		String definition;
-		if (heught)
+//		if (heught)
 		
 
 	}

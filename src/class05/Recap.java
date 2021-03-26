@@ -11,8 +11,8 @@ public class Recap {
 		anyVariableName=new Scanner(System.in);
 		// to capture entire sentence
 		
-		String sentence=anyVariableName.nexLine();
-		System.out.println(sentence);
+//		String sentence=anyVariableName.nexLine();
+//		System.out.println(sentence);
 		//to capture
 		int num=anyVariableName.nextInt();
 		System.out.println(num);
@@ -22,8 +22,8 @@ public class Recap {
 		System.out.println(d);
 		
 		//tocapture single character
-		char singleCharacter=anyVariableName.next().charAT(0);
-		System.out.println(sinleCharacter);
+//		char singleCharacter=anyVariableName.next().charAT(0);
+//		System.out.println(sinleCharacter);
 		
 		
 		

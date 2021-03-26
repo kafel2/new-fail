@@ -34,7 +34,7 @@ public class Array2 {
 		cityArray[18]="Dallas";
 		cityArray[19]="Brooklyn";
 		
-				for(c=0;c<=cityArray.length;c++) {
+				for(c=0;c<cityArray.length;c++) {
 					
 		        System.out.println(cityArray[c]+" ");
 			
